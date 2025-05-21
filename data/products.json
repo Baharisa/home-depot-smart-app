@@ -1,0 +1,51 @@
+[
+  {
+    "category": "deck",
+    "items": [
+      { "title": "Pressure-Treated Deck Board", "price": "$8.98", "link": "https://www.homedepot.com/deck-board" },
+      { "title": "Galvanized Deck Screws (1 lb)", "price": "$5.47", "link": "https://www.homedepot.com/screws" },
+      { "title": "Cordless Power Drill", "price": "$89.00", "link": "https://www.homedepot.com/drill" },
+      { "title": "Exterior Wood Stain", "price": "$32.98", "link": "https://www.homedepot.com/stain" }
+    ]
+  },
+  {
+    "category": "paint",
+    "items": [
+      { "title": "BEHR Premium Plus Interior Paint", "price": "$32.98", "link": "https://www.homedepot.com/behr" },
+      { "title": "Paint Roller Kit", "price": "$12.97", "link": "https://www.homedepot.com/roller" },
+      { "title": "Painter's Tape", "price": "$6.49", "link": "https://www.homedepot.com/tape" }
+    ]
+  },
+  {
+    "category": "drill",
+    "items": [
+      { "title": "Milwaukee M18 Cordless Drill", "price": "$129.00", "link": "https://www.homedepot.com/milwaukee-drill" },
+      { "title": "DEWALT 20V MAX Brushless Drill", "price": "$149.00", "link": "https://www.homedepot.com/dewalt-drill" },
+      { "title": "Drill Bit Set (14-Piece)", "price": "$24.97", "link": "https://www.homedepot.com/bits" }
+    ]
+  },
+  {
+    "category": "flooring",
+    "items": [
+      { "title": "Lifeproof Vinyl Plank Flooring", "price": "$2.89/sq. ft.", "link": "https://www.homedepot.com/flooring" },
+      { "title": "Laminate Underlayment Roll", "price": "$29.99", "link": "https://www.homedepot.com/underlayment" },
+      { "title": "Flooring Installation Kit", "price": "$19.98", "link": "https://www.homedepot.com/flooring-kit" }
+    ]
+  },
+  {
+    "category": "lighting",
+    "items": [
+      { "title": "Flush Mount Ceiling Light", "price": "$39.97", "link": "https://www.homedepot.com/ceiling-light" },
+      { "title": "LED Light Bulbs (4-Pack)", "price": "$11.97", "link": "https://www.homedepot.com/led-bulbs" },
+      { "title": "Pendant Light Fixture", "price": "$59.00", "link": "https://www.homedepot.com/pendant-light" }
+    ]
+  },
+  {
+    "category": "tools",
+    "items": [
+      { "title": "Ryobi Cordless Tool Combo Kit", "price": "$199.00", "link": "https://www.homedepot.com/ryobi-kit" },
+      { "title": "Toolbox with Tray", "price": "$22.97", "link": "https://www.homedepot.com/toolbox" },
+      { "title": "Adjustable Wrench Set", "price": "$15.98", "link": "https://www.homedepot.com/wrenches" }
+    ]
+  }
+]

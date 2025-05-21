@@ -1,0 +1,8 @@
+# Ignore all node_modules in client and server
+node_modules/
+
+# Ignore backend logs
+logs.json
+
+# Ignore env config /created later)
+.env
